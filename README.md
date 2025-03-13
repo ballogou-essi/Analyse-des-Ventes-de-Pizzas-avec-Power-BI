@@ -21,10 +21,10 @@ Ce projet vise à analyser les ventes d'une pizzeria sur l'année 2015 en utilis
   - ✔ Filtrage dynamique des données
 
 #
-🎯 Compétences mises en avant
-✅ Analyse de données avec Power BI
-✅ Création de tableaux de bord interactifs
-✅ Utilisation de mesures DAX pour l’analyse temporelle
+🎯 Compétences mises en avant:
+  - ✅ Analyse de données avec Power BI
+  - ✅ Création de tableaux de bord interactifs
+  - ✅ Utilisation de mesures DAX pour l’analyse temporelle
 
 #
 📂 Fichiers inclus
