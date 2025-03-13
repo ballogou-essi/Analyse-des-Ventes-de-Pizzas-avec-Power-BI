@@ -3,7 +3,7 @@
 
 ## 🚀Objectif du projet
 Ce projet vise à analyser les ventes d'une pizzeria sur l'année 2015 en utilisant **Power Bi**. Le tableau de bord fournit une vue détaillée des performances commerciales à travers plusieurs indicateurs clés.
-
+#
 🔎Donnée utilisées🔍
   - *Période analysée* : 01/01/2015 - 31/12/2015
   - *Métriques principales* :
@@ -19,3 +19,14 @@ Ce projet vise à analyser les ventes d'une pizzeria sur l'année 2015 en utilis
   - ✔ Analyse mensuelle avec comparaison N/N-1
   - ✔ Visualisation des tendances de ventes
   - ✔ Filtrage dynamique des données
+
+#
+🎯 Compétences mises en avant
+✅ Analyse de données avec Power BI
+✅ Création de tableaux de bord interactifs
+✅ Utilisation de mesures DAX pour l’analyse temporelle
+
+#
+📂 Fichiers inclus
+[Ventes_Analyse.pdf](https://github.com/user-attachments/files/19220069/Ventes_Analyse.pdf)
+
