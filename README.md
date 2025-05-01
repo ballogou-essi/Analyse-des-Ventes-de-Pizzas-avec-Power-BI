@@ -29,4 +29,7 @@ Ce projet vise à analyser les ventes d'une pizzeria sur l'année 2015 en utilis
 #
 📂 Fichiers inclus
 [Ventes_Analyse.pdf](https://github.com/user-attachments/files/19220069/Ventes_Analyse.pdf)
+[Ventes_Analyse.pdf](https://github.com/user-attachments/files/19220069/Ventes_Analyse.pdf)
+![image](https://github.com/user-attachments/assets/f687aa30-73a9-49b2-b512-639688242777)
+
 
