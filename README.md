@@ -1,9 +1,10 @@
 # 🍕 Analyse-des-Ventes-de-Pizzas-avec-Power-BI
 📊 Tableau de bord interactif pour suivre les performances commerciales d’une pizzeria
 
+Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Analyse-des-Ventes-de-Pizzas-avec-Power-BI/blob/main/Suivi_Activite_Pizzeria.pdf)
+
 ![Démo](https://github.com/ballogou-essi/Analyse-des-Ventes-de-Pizzas-avec-Power-BI/blob/main/2_D%C3%A9mo/d%C3%A9mo_court.gif)
 
-Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Analyse-des-Ventes-de-Pizzas-avec-Power-BI/blob/main/Suivi_Activite_Pizzeria.pdf)
 
 ## Objectif du projet
 Ce projet vise à analyser les ventes d'une pizzeria sur l'année 2015 en utilisant **Power Bi**. Le tableau de bord fournit une vue détaillée des performances commerciales à travers plusieurs indicateurs clés.
